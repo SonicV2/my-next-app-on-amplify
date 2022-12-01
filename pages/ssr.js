@@ -24,4 +24,3 @@ export async function getServerSideProps() {
   );
   return { props: { formattedDate } };
 }
-JavaScript
